@@ -843,42 +843,8 @@ body .slide-16 {
 }
 
 .register-service .button-register-service {
-  background: #ffd200;
-  color: #fff;
-  position: relative;
-  height: 66px;
-  width: 414px;
-  border-radius: 5px;
   margin-top: 41px;
-  left: 333px;
   margin-bottom: 67px;
-}
-
-.button-register-service .icon-refund {
-  position: absolute;
-  left: 14px;
-  top: 2px;
-}
-
-.button-register-service a {
-  font-size: 3.9em;
-  text-transform: uppercase;
-  font-weight: bold;
-  color: #fff;
-  position: absolute;
-  left: 98px;
-  top: 5px;
-}
-
-.button-register-service a:hover {
-  text-decoration: none;
-  color: #000;
-}
-
-.button-register-service .icon-muiten {
-  position: absolute;
-  bottom: 15px;
-  left: 435px;
 }
 
 .partner {
