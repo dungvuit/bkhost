@@ -141,27 +141,16 @@
     </div>
   </div>
 </div>
-<div class="register-service">
+<div class="register-service text-center">
   <div class="container">
     <p class="text-register-service">
       Đăng ký <span>dịch vụ khác</span> kèm theo Cloud VPS của bạn? 
     </p>
     <div class="button-register-service">
-      <img class="icon-refund" src="images/icon-refund2.png">
-      <a href="#">Đăng ký ngay</a>
-      <img class="icon-muiten" src="images/mui-ten.png">
+      <a href="javascript:void(0)">
+        <img class="screenshot-2" src="images/btn-register-now.png">
+      </a>
     </div>
   </div>
-</div>
-<div class="partner">
-    <p class="text-partner-1">Đối tác của chúng tôi</p>
-    <p class="text-partner-2">
-      Chúng tôi có hơn 40 đối tác trong và ngoài nước. Dưới đây là những đối tác tiêu biểu
-    </p>
-    <div class="slide-partner-logo">
-      <img src="images/icon-partner-slide-left.png">
-      <img class="logo-partner" src="images/logo-doi-tac.png">
-      <img src="images/icon-partner-slide-right.png">
-    </div>
 </div>
 <?php include("footer.php"); ?>

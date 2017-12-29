@@ -190,9 +190,9 @@
       Đăng ký <span>dịch vụ khác</span> kèm theo Cloud VPS của bạn? 
     </p>
     <div class="button-register-service">
-      <img class="icon-refund" src="images/icon-refund2.png">
-      <a href="#">Đăng ký ngay</a>
-      <img class="icon-muiten" src="images/mui-ten.png">
+      <a href="javascript:void(0)">
+        <img class="screenshot-2" src="images/btn-register-now.png">
+      </a>
     </div>
   </div>
 </div>
